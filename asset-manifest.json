@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/77practicalexam/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/77practicalexam/static/js/main.1b4b1e7e.chunk.js",
-    "main.js.map": "/77practicalexam/static/js/main.1b4b1e7e.chunk.js.map",
-    "runtime-main.js": "/77practicalexam/static/js/runtime-main.75ed7c07.js",
-    "runtime-main.js.map": "/77practicalexam/static/js/runtime-main.75ed7c07.js.map",
-    "static/js/2.712d1ccb.chunk.js": "/77practicalexam/static/js/2.712d1ccb.chunk.js",
-    "static/js/2.712d1ccb.chunk.js.map": "/77practicalexam/static/js/2.712d1ccb.chunk.js.map",
-    "static/js/3.dfcff007.chunk.js": "/77practicalexam/static/js/3.dfcff007.chunk.js",
-    "static/js/3.dfcff007.chunk.js.map": "/77practicalexam/static/js/3.dfcff007.chunk.js.map",
+    "main.css": "/77practicalexam/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/77practicalexam/static/js/main.2e497b1d.chunk.js",
+    "main.js.map": "/77practicalexam/static/js/main.2e497b1d.chunk.js.map",
+    "runtime-main.js": "/77practicalexam/static/js/runtime-main.b1e3157f.js",
+    "runtime-main.js.map": "/77practicalexam/static/js/runtime-main.b1e3157f.js.map",
+    "static/js/2.b83ff770.chunk.js": "/77practicalexam/static/js/2.b83ff770.chunk.js",
+    "static/js/2.b83ff770.chunk.js.map": "/77practicalexam/static/js/2.b83ff770.chunk.js.map",
+    "static/js/3.afdca5bb.chunk.js": "/77practicalexam/static/js/3.afdca5bb.chunk.js",
+    "static/js/3.afdca5bb.chunk.js.map": "/77practicalexam/static/js/3.afdca5bb.chunk.js.map",
     "index.html": "/77practicalexam/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/77practicalexam/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.712d1ccb.chunk.js.LICENSE.txt": "/77practicalexam/static/js/2.712d1ccb.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/77practicalexam/static/media/logo.103b5fa1.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/77practicalexam/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b83ff770.chunk.js.LICENSE.txt": "/77practicalexam/static/js/2.b83ff770.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75ed7c07.js",
-    "static/js/2.712d1ccb.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.1b4b1e7e.chunk.js"
+    "static/js/runtime-main.b1e3157f.js",
+    "static/js/2.b83ff770.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2e497b1d.chunk.js"
   ]
 }
